@@ -18,6 +18,7 @@ title: "Schedule and Format"
         (<a href="https://www.timeanddate.com/worldclock/usa/spokane">Spokane</a>)
         </th>
         <th>Program</th>
+        <th>Speaker</th>
     </tr>
     <tr class="invited">
         <td>4:00 - 4:25</td>
