@@ -14,7 +14,7 @@ title: "Organisers"
         <a href="https://www.linkedin.com/in/vincent-guan-9a3583161/?originalSubdomain=ca">Vincent Guan</a>
     </div>
     <div class="person">
-        <img src="/elina.jpg">
+        <img src="/elina.png">
         <a href="https://personal.math.ubc.ca/~erobeva/index.html">Elina Robeva</a>
     </div>
 
