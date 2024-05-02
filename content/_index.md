@@ -4,7 +4,7 @@ title: "Home"
 
 # Welcome!
 
-If you are interested in attending other events hosted by this group, go to https://causalinfo.github.io .
+If you are interested in attending other events hosted by this group, go to https://causalinfo.github.io.
 
 
 ## About the minisymposium
