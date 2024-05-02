@@ -110,6 +110,6 @@ title: "Schedule and Format"
 
 
 
-## Virtual Posters
+## Virtual Presentations
 
-All presentations will be 25 minutes. Try to keep it short so we have time for lots of discussion!
+All presentations will be done virtually (25 minutes each). Try to keep it short so we have time for lots of discussion!
