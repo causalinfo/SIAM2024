@@ -6,8 +6,8 @@ title: "Invited Speakers and Panelists"
 
 <div class="list-of-people">
     <div class="person">
-        <td><img src="/chandler.png"></td>
-        <td><a href="http://chandlersquires.com/">Ryan G. James</a></td>
+        <td><img src="/ryan.png"></td>
+        <td><a href="https://csc.ucdavis.edu/~rgjames/">Ryan G. James</a></td>
     </div>
     <div class="person">
         <td><img src="/Vince.png"></td>
