@@ -18,24 +18,24 @@ title: "Invited Speakers and Panelists"
         <a href="https://hydroml.github.io/">Joseph Janssen</a>
     </div>
     <div class="person">
-        <td><img src="/gemma.jpg"></td>
-        <td><a href="https://www.gemma-moran.com/">Praveen Venkatesh</a></td>
+        <td><img src="/Praveen.png"></td>
+        <td><a href="https://alleninstitute.org/person/praveen-venkatesh/">Praveen Venkatesh</a></td>
     </div>
     <div class="person">
-        <img src="/julius.jpg">
-        <a href="https://sites.google.com/view/julius-von-kuegelgen/home">Raha Moraffah</a>
+        <img src="/raha.png">
+        <a href="https://rmoraffa.github.io/">Raha Moraffah</a>
     </div>
     <div class="person">
-        <td><img src="/xinwei.png"></td>
-        <td><a href="https://xinweishen.netlify.app/">Jonas Peters</a></td>
+        <td><img src="/jonas.png"></td>
+        <td><a href="https://people.math.ethz.ch/~jopeters/">Jonas Peters</a></td>
     </div>
     <div class="person">
         <td><img src="/elina.png"></td>
         <td><a href="https://personal.math.ubc.ca/~erobeva/index.html">Elina Robeva</a></td>
     </div>
     <div class="person">
-        <td><img src="/xinwei.png"></td>
-        <td><a href="https://xinweishen.netlify.app/">Søren Mogensen</a></td>
+        <td><img src="/soren.png"></td>
+        <td><a href="https://soerenwengel.github.io/">Søren Mogensen</a></td>
     </div>
     <div class="person">
         <td><img src="/pardis.png"></td>
