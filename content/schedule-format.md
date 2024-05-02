@@ -57,8 +57,7 @@ title: "Schedule and Format"
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
     Legend:
     <span class="contributed">contributed</span> · 
-    <span class="invited">invited</span> · 
-    <span class="break">break</span>
+    <span class="invited">invited</span>
 </div>
 
 <table class="schedule">
@@ -71,7 +70,7 @@ title: "Schedule and Format"
     </tr>
     <tr class="invited">
         <td>4:00 - 4:25</td>
-        <td>The Dependency Diagram: A New Method of Understanding Interdependence in Multivariate Distributions</td>
+        <td>Causal Models for Dynamical Systems</td>
     </tr>
     <tr>
         <td>4:25 - 4:30</td>
@@ -79,7 +78,7 @@ title: "Schedule and Format"
     </tr>
     <tr class="contributed">
         <td>4:30 - 4:55</td>
-        <td>Ultra-Marginal Feature Importance: Learning from Data with Causal Guarantees</td>
+        <td>Learning Linear Non-Gaussian Cyclic Causal Models Via Algebraic Constraints</td>
     </tr>
     <tr>
         <td>4:55 - 5:00</td>
@@ -87,7 +86,7 @@ title: "Schedule and Format"
     </tr>
     <tr class="invited">
         <td>5:00 - 5:25</td>
-        <td>Quantifying Information Flow and Information Interaction in Neural Circuits</td>
+        <td>Causal Learning in Stochastic Processes: A Graphical Framework Using Local Independence</td>
     </tr>
     <tr>
         <td>5:25 - 5:30</td>
@@ -95,7 +94,7 @@ title: "Schedule and Format"
     </tr>
     <tr class="invited">
         <td>5:30 - 5:55</td>
-        <td>Causal Feature Selection in the Era of Big Data</td>
+        <td>Causal Inference in Directed, Possibly Cyclic, Graphical Models</td>
     </tr>
 </table>
 
