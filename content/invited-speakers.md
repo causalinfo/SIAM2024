@@ -34,7 +34,7 @@ title: "Invited Speakers and Panelists"
         <td><a href="https://personal.math.ubc.ca/~erobeva/index.html">Elina Robeva</a></td>
     </div>
     <div class="person">
-        <td><img src="/soren.png"></td>
+        <td><img src="/soeren.png"></td>
         <td><a href="https://soerenwengel.github.io/">Søren Mogensen</a></td>
     </div>
     <div class="person">
