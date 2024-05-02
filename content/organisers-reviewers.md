@@ -6,15 +6,15 @@ title: "Organisers"
 
 <div class="list-of-people">
     <div class="person">
-        <img src="/sara.jpg">
+        <img src="/joe.jpg">
         <a href="https://hydroml.github.io/">Joseph Janssen</a>
     </div>
     <div class="person">
-        <img src="/cian.png">
+        <img src="/Vince.png">
         <a href="https://www.linkedin.com/in/vincent-guan-9a3583161/?originalSubdomain=ca">Vincent Guan</a>
     </div>
     <div class="person">
-        <img src="/yuki.jpg">
+        <img src="/elina.jpg">
         <a href="https://personal.math.ubc.ca/~erobeva/index.html">Elina Robeva</a>
     </div>
 
