@@ -22,6 +22,7 @@ title: "Schedule and Format"
     <tr class="invited">
         <td>4:00 - 4:25</td>
         <td>The Dependency Diagram: A New Method of Understanding Interdependence in Multivariate Distributions</td>
+        <td>Ryan G. James (UC Davis)</td>
     </tr>
     <tr>
         <td>4:25 - 4:30</td>
@@ -30,6 +31,7 @@ title: "Schedule and Format"
     <tr class="contributed">
         <td>4:30 - 4:55</td>
         <td>Ultra-Marginal Feature Importance: Learning from Data with Causal Guarantees</td>
+        <td>Vincent Guan & Joseph Janssen (UBC)</td>
     </tr>
     <tr>
         <td>4:55 - 5:00</td>
@@ -38,6 +40,7 @@ title: "Schedule and Format"
     <tr class="invited">
         <td>5:00 - 5:25</td>
         <td>Quantifying Information Flow and Information Interaction in Neural Circuits</td>
+        <td>Praveen Venkatesh (University of Washington)</td>
     </tr>
     <tr>
         <td>5:25 - 5:30</td>
@@ -46,6 +49,7 @@ title: "Schedule and Format"
     <tr class="invited">
         <td>5:30 - 5:55</td>
         <td>Causal Feature Selection in the Era of Big Data</td>
+        <td>Raha Moraffah (Arizona State)</td>
     </tr>
 </table>
 
