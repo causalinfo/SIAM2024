@@ -3,7 +3,7 @@ title: "Schedule and Format"
 ---
 
 
-# Workshop Schedule
+# Minisymposium Schedule
 
 <div style="width: 100%; font-size: smaller; text-align: center; margin-bottom: 18px; margin-top: 18px;">
     Legend:
@@ -16,33 +16,38 @@ title: "Schedule and Format"
     <tr>
         <th style="width:25%">
         Time
-        (<a href="https://www.timeanddate.com/worldclock/usa/new-orleans">New Orleans</a>)
+        (<a href="https://www.timeanddate.com/worldclock/usa/spokane">Spokane, Washington</a>)
         </th>
         <th>Program</th>
     </tr>
+    
+    <tr class="invited">
+        <td>4:00 - 4:25</td>
+        <td>The Dependency Diagram: A New Method of Understanding Interdependence in Multivariate Distributions</td>
+    </tr>
     <tr>
-        <td>08:15 - 08:20</td>
-        <td>Introductory remarks</td>
-    </tr>
-    <tr class="invited">
-        <td>08:20 - 08:50</td>
-        <td>Invited talk Gemma Moran</td>
-    </tr>
-    <tr class="invited">
-        <td>08:50 - 09:20</td>
-        <td>Invited talk Xinwei Shen (virtual)</td>
+        <td>4:25 - 4:30</td>
+        <td>Discussion</td>
     </tr>
     <tr class="contributed">
-        <td>09:20 - 09:35</td>
-        <td>
-        Contributed talk: <a href="https://openreview.net/forum?id=fkoqMdTlEg">Identifying Effects of Disease on Single-Cells with Domain-Invariant Generative Modeling</a>
-        </td>
+        <td>4:30 - 4:55</td>
+        <td>Ultra-Marginal Feature Importance: Learning from Data with Causal Guarantees</td>
     </tr>
-    <tr class="contributed">
-        <td>09:35 - 09:50</td>
-        <td>
-        Contributed talk: <a href="https://openreview.net/forum?id=5l1OdD81W4">Identifying Representations for Intervention Extrapolation</a>
-        </td>
+    <tr>
+        <td>4:55 - 5:00</td>
+        <td>Discussion</td>
+    </tr>
+    <tr class="invited">
+        <td>5:00 - 5:25</td>
+        <td>Quantifying Information Flow and Information Interaction in Neural Circuits</td>
+    </tr>
+    <tr>
+        <td>5:25 - 5:30</td>
+        <td>Discussion</td>
+    </tr>
+    <tr class="invited">
+        <td>5:30 - 5:55</td>
+        <td>Causal Feature Selection in the Era of Big Data</td>
     </tr>
     <tr class="contributed">
         <td>09:50 - 10:05</td>
