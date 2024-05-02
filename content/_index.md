@@ -4,7 +4,7 @@ title: "Home"
 
 # Welcome!
 
-If you are interested in attending other events hosted by this group, 
+If you are interested in attending other events hosted by this group, [NeurIPS latex style](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles).
 
 
 ## About the minisymposium
