@@ -16,7 +16,7 @@ title: "Schedule and Format"
     <tr>
         <th style="width:25%">
         Time
-        (<a href="https://www.timeanddate.com/worldclock/usa/spokane">Spokane, Washington</a>)
+        (<a href="https://www.timeanddate.com/worldclock/usa/spokane">Spokane</a>)
         </th>
         <th>Program</th>
     </tr>
