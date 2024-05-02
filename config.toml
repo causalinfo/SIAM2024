@@ -21,42 +21,30 @@ disableKinds = ["taxonomyTerm"]
 
 # Main menu
 [[menu.main]]
-    name = "Call for Papers"
-    url  = "/call-for-papers"
-    weight = 1
-[[menu.main]]
     name = "About"
     url  = "/about"
-    weight = 2
+    weight = 1
 [[menu.main]]
     name = "Dates"
     url  = "/dates"
-    weight = 3
+    weight = 2
 [[menu.main]]
     name = "Formatting Instructions"
     url  = "/formatting-instructions"
-    weight = 4
+    weight = 3
 [[menu.main]]
     name = "Organisers"
     url  = "/organisers"
-    weight = 5
-[[menu.main]]
-    name = "Accepted Papers"
-    url  = "/accepted-papers"
-    weight = 6
-[[menu.main]]
-    name = "Past Workshops"
-    url  = "/past-workshops"
-    weight = 7
+    weight = 4
 [[menu.main]]
     name = "Schedule and Format"
     url  = "/schedule-format"
-    weight = 8
+    weight = 5
 [[menu.main]]
-    name = "Invited Speakers and Panelists"
+    name = "Invited Speakers"
     url  = "/invited-speakers"
-    weight = 9
-# [[menu.main]]
-#     name = "Slides and Recording"
-#     url  = "/slides-recording"
-#     weight = 10
+    weight = 6
+[[menu.main]]
+    name = "Slides and Recording"
+    url  = "/slides-recording"
+    weight = 7
