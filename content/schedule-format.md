@@ -20,7 +20,6 @@ title: "Schedule and Format"
         </th>
         <th>Program</th>
     </tr>
-    
     <tr class="invited">
         <td>4:00 - 4:25</td>
         <td>The Dependency Diagram: A New Method of Understanding Interdependence in Multivariate Distributions</td>
@@ -48,63 +47,6 @@ title: "Schedule and Format"
     <tr class="invited">
         <td>5:30 - 5:55</td>
         <td>Causal Feature Selection in the Era of Big Data</td>
-    </tr>
-    <tr class="contributed">
-        <td>09:50 - 10:05</td>
-        <td>Contributed talk: <a href="https://openreview.net/forum?id=T0PoOJg8cK">The Linear Representation Hypothesis in Language Models</a>
-        </td>
-    </tr>
-    <tr class="break">
-        <td>10:05 - 10:30</td>
-        <td>Coffee break and beginning of poster session</td>
-    </tr>
-    <tr class="contributed">
-        <td>10:30 - 12:00</td>
-        <td>Poster session</td>
-    </tr>
-    <tr class="break">
-        <td>12:00 - 13:30</td>
-        <td>Lunch break</td>
-    </tr>
-    <tr class="invited">
-        <td>13:30 - 14:00</td>
-        <td>Invited talk Chandler Squires</td>
-    </tr>
-    <tr class="invited">
-        <td>14:00 - 14:30</td>
-        <td>Invited talk Dhanya Sridhar</td>
-    </tr>
-    <tr class="contributed">
-        <td>14:30 - 14:45</td>
-        <td>
-        Contributed talk: <a href="https://openreview.net/forum?id=E8IhOxNREv">Multi-View Causal Representation Learning with Partial Observability</a>
-        </td>
-    </tr>
-    <tr class="contributed">
-        <td>14:45 - 15:00</td>
-        <td>
-        Contributed talk: <a href="https://openreview.net/forum?id=MytNJ6lXAV">Score-based Causal Representation Learning from Interventions: Nonparametric Identifiability</a>
-        </td>
-    </tr>
-    <tr class="break">
-        <td>15:00 - 15:30</td>
-        <td>Coffee break and poster session</td>
-    </tr>
-    <tr class="invited">
-        <td>15:30 - 16:00</td>
-        <td>Invited talk Francesco Locatello</td>
-    </tr>
-    <tr class="invited">
-        <td>16:00 - 16:30</td>
-        <td>Invited talk Julius von Kügelgen</td>
-    </tr>
-    <tr class="invited">
-        <td>16:30 - 17:20</td>
-        <td>Panel discussion</td>
-    </tr>
-    <tr>
-        <td>17:20 - 17:30</td>
-        <td>Closing remarks</td>
     </tr>
 </table>
 
