@@ -4,6 +4,8 @@ title: "Home"
 
 # Welcome!
 
+If you are interested in attending other events hosted by this group, 
+
 
 ## About the minisymposium
 
