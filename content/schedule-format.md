@@ -67,10 +67,12 @@ title: "Schedule and Format"
         (<a href="https://www.timeanddate.com/worldclock/usa/spokane">Spokane</a>)
         </th>
         <th>Program</th>
+        <th>Speaker</th>
     </tr>
     <tr class="invited">
         <td>4:00 - 4:25</td>
         <td>Causal Models for Dynamical Systems</td>
+        <td>Jonas Peters (ETH Zurich)</td>
     </tr>
     <tr>
         <td>4:25 - 4:30</td>
@@ -79,6 +81,7 @@ title: "Schedule and Format"
     <tr class="contributed">
         <td>4:30 - 4:55</td>
         <td>Learning Linear Non-Gaussian Cyclic Causal Models Via Algebraic Constraints</td>
+        <td>Elina Robeva (UBC)</td>
     </tr>
     <tr>
         <td>4:55 - 5:00</td>
@@ -87,6 +90,7 @@ title: "Schedule and Format"
     <tr class="invited">
         <td>5:00 - 5:25</td>
         <td>Causal Learning in Stochastic Processes: A Graphical Framework Using Local Independence</td>
+        <td>Søren Mogensen (Lund University)</td>
     </tr>
     <tr>
         <td>5:25 - 5:30</td>
@@ -95,15 +99,12 @@ title: "Schedule and Format"
     <tr class="invited">
         <td>5:30 - 5:55</td>
         <td>Causal Inference in Directed, Possibly Cyclic, Graphical Models</td>
+        <td>Pardis Semnani (UBC)</td>
     </tr>
 </table>
 
 
-## In-Person Posters
-
-All posters should be put up in the morning (e.g., during the first break) and will remain up during the whole day (i.e., all posters are presented during both poster sessions).
-
 
 ## Virtual Posters
 
-For papers being presented virtually, the poster PDFs and videos can be found [here](https://drive.google.com/drive/folders/1QgNx2bFTgUxqBs_jtdd7-58O0qJunwVjPqdskTlx8cUMxPLKPfYNo-1r8c5uWmkAeQZGjLGW?usp=sharing).
+All presentations will be 25 minutes. Try to keep it short so we have time for lots of discussion!
