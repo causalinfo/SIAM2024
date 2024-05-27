@@ -11,7 +11,7 @@ title: "Organisers"
     </div>
     <div class="person">
         <img src="/Vince.png">
-        <a href="https://www.linkedin.com/in/vincent-guan-9a3583161/?originalSubdomain=ca">Vincent Guan</a>
+        <a href="https://sites.google.com/view/vincentguan/about?authuser=0">Vincent Guan</a>
     </div>
     <div class="person">
         <img src="/elina.png">
