@@ -11,7 +11,7 @@ title: "Invited Speakers and Panelists"
     </div>
     <div class="person">
         <td><img src="/Vince.png"></td>
-        <td><a href="https://www.linkedin.com/in/vincent-guan-9a3583161/?originalSubdomain=ca">Vincent Guan</a></td>
+        <td><a href="https://sites.google.com/view/vincentguan/about?authuser=0">Vincent Guan</a></td>
     </div>
     <div class="person">
         <img src="/joe.jpg">
@@ -24,10 +24,6 @@ title: "Invited Speakers and Panelists"
     <div class="person">
         <img src="/raha.png">
         <a href="https://rmoraffa.github.io/">Raha Moraffah</a>
-    </div>
-    <div class="person">
-        <td><img src="/jonas.png"></td>
-        <td><a href="https://people.math.ethz.ch/~jopeters/">Jonas Peters</a></td>
     </div>
     <div class="person">
         <td><img src="/elina.png"></td>
