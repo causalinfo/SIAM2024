@@ -9,7 +9,7 @@ disableKinds = ["taxonomyTerm"]
 [params]
   supertitle = "Learning From Data With Information Theory and Causal Inference"
   title = "A minisymposium @ the 2024 SIAM Annual Meeting"
-  subtitle = "July 9th & 12th 2024"
+  subtitle = "July 18th & 19th 2024"
   author = "Joseph Janssen, Vincent Guan, Elina Robeva"
   description = "2024 SIAM Annual Meeting minisymposium on 'Learning From Data With Information Theory and Causal Inference' "
   keywords = ["minisymposium", "causal inference", "information theory"]
