@@ -75,30 +75,30 @@ title: "Schedule and Format"
         <th>Speaker</th>
     </tr>
     <tr class="contributed">
-        <td>6:30 - 6:55</td>
+        <td>18:00 - 18:25</td>
         <td>Learning Linear Non-Gaussian Cyclic Causal Models Via Algebraic Constraints</td>
         <td>Elina Robeva (UBC)</td>
     </tr>
     <tr>
-        <td>6:55 - 7:00</td>
+        <td>18:25 - 18:30</td>
         <td>Discussion</td>
     </tr>
     <tr class="invited">
-        <td>7:00 - 7:25</td>
+        <td>18:30 - 18:55</td>
         <td>Causal Learning in Stochastic Processes: A Graphical Framework Using Local Independence</td>
         <td>Søren Mogensen (Lund University)</td>
     </tr>
     <tr>
-        <td>7:25 - 7:30</td>
+        <td>18:55 - 19:00</td>
         <td>Discussion</td>
     </tr>
     <tr class="invited">
-        <td>7:30 - 7:55</td>
+        <td>19:00 - 19:25</td>
         <td>Causal Inference in Directed, Possibly Cyclic, Graphical Models</td>
         <td>Pardis Semnani (UBC)</td>
     </tr>
     <tr>
-        <td>6:00 - 6:30</td>
+        <td>19:25 - 20:00</td>
         <td>Discussion</td>
     </tr>
 </table>
