@@ -74,14 +74,14 @@ title: "Schedule and Format"
         <th>Program</th>
         <th>Speaker</th>
     </tr>
-    <tr>
-        <td>6:00 - 6:30</td>
-        <td>Discussion</td>
-    </tr>
     <tr class="contributed">
         <td>6:30 - 6:55</td>
         <td>Learning Linear Non-Gaussian Cyclic Causal Models Via Algebraic Constraints</td>
         <td>Elina Robeva (UBC)</td>
+    </tr>
+    <tr>
+        <td>6:00 - 6:30</td>
+        <td>Discussion</td>
     </tr>
     <tr>
         <td>6:55 - 7:00</td>
