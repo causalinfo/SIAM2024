@@ -80,10 +80,6 @@ title: "Schedule and Format"
         <td>Elina Robeva (UBC)</td>
     </tr>
     <tr>
-        <td>6:00 - 6:30</td>
-        <td>Discussion</td>
-    </tr>
-    <tr>
         <td>6:55 - 7:00</td>
         <td>Discussion</td>
     </tr>
@@ -100,6 +96,10 @@ title: "Schedule and Format"
         <td>7:30 - 7:55</td>
         <td>Causal Inference in Directed, Possibly Cyclic, Graphical Models</td>
         <td>Pardis Semnani (UBC)</td>
+    </tr>
+    <tr>
+        <td>6:00 - 6:30</td>
+        <td>Discussion</td>
     </tr>
 </table>
 
